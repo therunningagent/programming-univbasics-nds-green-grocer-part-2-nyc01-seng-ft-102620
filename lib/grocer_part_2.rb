@@ -5,7 +5,7 @@ def apply_coupons(cart, coupons)
   
   while index < cart.length do 
     current_item = cart[index_cart]
-    
+    discounted
 end
 
 def apply_clearance(cart)
