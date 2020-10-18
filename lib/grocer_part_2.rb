@@ -1,7 +1,7 @@
 require_relative './part_1_solution.rb'
 
 def apply_coupons(cart, coupons)
-  
+  binding.pry
 end
 
 def apply_clearance(cart)
