@@ -3,7 +3,8 @@ require_relative './part_1_solution.rb'
 def apply_coupons(cart, coupons)
   index = 0 
   
-  while index <
+  while index < cart.length do 
+    
 end
 
 def apply_clearance(cart)
